@@ -1,2 +1,3 @@
 # conspirateur.github.io
-Osobna web stranica
+
+Bezvremenska web stranica rađena po HTML-only predlošku koja služi kao poslovna referenca

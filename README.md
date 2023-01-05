@@ -1,10 +1,13 @@
 # conspirateur.github.io
 
+<b>Bezvremenska</b> web stranica rađena po HTML-only predlošku koja služi kao poslovna referenca.
+<br><br>
+<li>Kvalitetno napisan kod</li>
 
-Bezvremenska web stranica rađena po HTML-only predlošku koja služi kao poslovna referenca.
+<li>Jednostavno održavanje</li>
 
-Jednostavno napisan kod
-Lako održavanje
-Brza
-Radi na svim uređajima
-Lijepog dizajna.
+<li>Brza</li>
+
+<li>Podržava sve uređaje i aktualne tehnologije</li>
+
+<li>Atraktivnog dizajna.</li>

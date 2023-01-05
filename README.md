@@ -1,6 +1,6 @@
 # conspirateur.github.io
 
-<b>Bezvremenska</b> HTML web stranica koja služi kao poslovna referenca.
+<b>Bezvremenska</b> HTML+CSS web stranica koja služi kao poslovna referenca.
 <br><br>
 <li>Kvalitetno napisan kod</li>
 

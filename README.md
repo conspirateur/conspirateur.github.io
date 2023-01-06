@@ -7,6 +7,5 @@
 <li>Brza</li>
 <li>Podržava sve uređaje i aktualne tehnologije</li>
 <li>Atraktivnog dizajna.</li>
-
-
+<br>
 <b>Inspirirana</b> https://motherfuckingwebsite.com/ http://bettermotherfuckingwebsite.com/ https://thebestmotherfucking.website/ https://perfectmotherfuckingwebsite.com/ https://ultimatemotherfuckingwebsite.com/

@@ -1,16 +1,19 @@
 # conspirateur.github.io
 
-<b>HTML+CSS</b> web stranica koja služi kao poslovna referenca.
+<h1><b>HTML+CSS</b> web stranica koja služi kao poslovna referenca.</h1>
 
 <li>Kvalitetno napisan kod</li>
 <li>Jednostavno održavanje</li>
 <li>Brza</li>
 <li>Atraktivnog dizajna.</li>
 <br>
-<b>Inspiracija</b>
+<h2>Inspiracija</h2>
 <li>https://motherfuckingwebsite.com/</li>
 <li>http://bettermotherfuckingwebsite.com/</li>
 <li>https://thebestmotherfucking.website/</li>
 <li>https://perfectmotherfuckingwebsite.com/</li>
 <li>https://ultimatemotherfuckingwebsite.com/</li>
+<h2>HTML potpis</h2>
 <li>https://www.youtube.com/watch?v=dgtXgidM8v0</li>
+<h2>CV</h2>
+<li>https://sheetsgiggles.com/blogs/news/sheets-and-giggles-fastest-growing-startup-in-colorado</li>

@@ -9,7 +9,6 @@
 <br>
 <h2>Inspiracija</h2>
 <li>https://motherfuckingwebsite.com/</li>
-<li>http://bettermotherfuckingwebsite.com/</li>
 <li>https://thebestmotherfucking.website/</li>
 <li>https://perfectmotherfuckingwebsite.com/</li>
 <li>https://ultimatemotherfuckingwebsite.com/</li>

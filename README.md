@@ -13,7 +13,5 @@
 <li>https://thebestmotherfucking.website/</li>
 <li>https://perfectmotherfuckingwebsite.com/</li>
 <li>https://ultimatemotherfuckingwebsite.com/</li>
-<h2>HTML potpis</h2>
-<li>https://www.youtube.com/watch?v=dgtXgidM8v0</li>
 <h2>CV</h2>
 <li>https://sheetsgiggles.com/blogs/news/sheets-and-giggles-fastest-growing-startup-in-colorado</li>

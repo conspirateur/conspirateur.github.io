@@ -20,3 +20,8 @@ a {
 a:hover {
     border-bottom: 0;
 }
+
+@media (prefers-dark-interface) {
+    root: { --text-color: #FBFBFB;
+	    --back-color: #292929;}
+}

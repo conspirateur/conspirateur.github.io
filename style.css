@@ -21,7 +21,8 @@ a:hover {
     border-bottom: 0;
 }
 
-@media (prefers-dark-interface) {
-    root: { --text-color: #FBFBFB;
-	    --back-color: #292929;}
+@media (prefers-color-scheme: dark) {
+    .element {
+	text-color: #FBFBFB;
+	background-color: #292929;}
 }

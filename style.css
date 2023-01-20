@@ -7,7 +7,6 @@ body {
     color: #1f1f1f;
     font-size: 18px;
     line-height: 1.5;
-    text-shadow: 0 1px 0 #ffffff;
     max-width: 73%;
 }
 
@@ -20,7 +19,7 @@ a {
 a:hover {
     border-bottom: 0;
 }
-
+	/*jednostavni dio koda koji automatski mjenja temu u dark mode ako je posjetitelju ta opcija ukljucena*/
 @media (prefers-color-scheme: dark) {
     body {
 	color: #FBFBFB;

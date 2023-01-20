@@ -1,6 +1,6 @@
 # conspirateur.github.io
 
-<h1><b>HTML+CSS</b> web stranica koja služi kao poslovna referenca.</h1>
+<h1><b>HTML+CSS</b> web stranica kao poslovna referenca.</h1>
 
 <li>Kvalitetno napisan kod</li>
 <li>Jednostavno održavanje</li>

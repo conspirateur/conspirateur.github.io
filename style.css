@@ -1,10 +1,10 @@
 body {
 
     margin: 5% auto;
-    background: #FBFBFB;
+    background: #f7f7f7;
 	/*system-ui mjenja prijašnji -apple-system, BlinkMacSystemFont (https://css-tricks.com/snippets/css/system-font-stack/)*/
     font-family: system-ui, "Segoe UI", Roboto, Arial, Helvetica, sans-serif;
-    color: #454545;
+    color: #1f1f1f;
     font-size: 18px;
     line-height: 1.5;
     text-shadow: 0 1px 0 #ffffff;

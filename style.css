@@ -22,7 +22,8 @@ a:hover {
 }
 
 @media (prefers-color-scheme: dark) {
-    .element {
-	text-color: #FBFBFB;
-	background-color: #292929;}
+    .body {
+	color: #FBFBFB;
+	background: #292929;
+}
 }

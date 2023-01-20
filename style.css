@@ -1,8 +1,9 @@
 body {
-
     margin: 5% auto;
     background: #f7f7f7;
+	
 	/*system-ui mjenja prijašnji -apple-system, BlinkMacSystemFont (https://css-tricks.com/snippets/css/system-font-stack/)*/
+	
     font-family: system-ui, "Segoe UI", Roboto, Arial, Helvetica, sans-serif;
     color: #1f1f1f;
     font-size: 18px;
@@ -19,7 +20,9 @@ a {
 a:hover {
     border-bottom: 0;
 }
+
 	/*jednostavni dio koda koji automatski mjenja temu u dark mode ako je posjetitelju ta opcija ukljucena*/
+
 @media (prefers-color-scheme: dark) {
     body {
 	color: #FBFBFB;

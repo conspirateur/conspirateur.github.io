@@ -1,5 +1,5 @@
 body {
-    margin: 5% auto;
+    margin: 0 auto;
     background: #f7f7f7;
 	
 	/*system-ui mjenja prijašnji -apple-system, BlinkMacSystemFont (https://css-tricks.com/snippets/css/system-font-stack/)*/
@@ -8,7 +8,13 @@ body {
     color: #1f1f1f;
     font-size: 18px;
     line-height: 1.5;
-    max-width: 73%;
+    max-width: 50em;
+    padding: 4em 1em;
+}
+
+h2 {
+  margin-top: 1em;
+  padding-top: 1em;
 }
 
 a {
@@ -21,14 +27,14 @@ a:hover {
     border-bottom: 0;
 }
 
-	/*jednostavni dio koda koji automatski mjenja temu u dark mode ako je posjetitelju ta opcija ukljucena*/
+	/*automatski mjenja temu u dark mode*/
 
 @media (prefers-color-scheme: dark) {
-   	 body {
-	 color: #FBFBFB;
-	 background: #292929;
+body {
+	color: #FBFBFB;
+	background: #292929;
 }
-	a {
+a {
 	border-bottom: 1px solid #999999;
     	color: #999999;
 }

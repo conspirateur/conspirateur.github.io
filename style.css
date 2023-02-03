@@ -1,22 +1,15 @@
 body {
     margin: 0 auto;
     background: #f7f7f7;
-	
 	/*system-ui mjenja prijašnji -apple-system, BlinkMacSystemFont (https://css-tricks.com/snippets/css/system-font-stack/)*/
-	
     font-family: system-ui, "Segoe UI", Roboto, Arial, Helvetica, sans-serif;
     color: #1f1f1f;
-    font-size: 18px;
+    font-size: 1em;
     line-height: 1.5;
     max-width: 50em;
-    padding: 4em 1em 1em 1em;
+    padding: 4em 1em;
+    text-align: center;
 }
-
-h2 {
-  margin-top: 1em;
-  padding-top: 1em;
-}
-
 a {
     border-bottom: 1px solid #444444;
     color: #800080;
@@ -27,15 +20,14 @@ a:hover {
     border-bottom: 0;
 }
 
-	/*automatski mjenja temu u dark mode*/
-
+/*automatski mjenja temu u dark mode*/
 @media (prefers-color-scheme: dark) {
 body {
-	color: #FBFBFB;
-	background: #292929;
+    color: #FBFBFB;
+    background: #292929;
 }
 a {
-	border-bottom: 1px solid #999999;
-    	color: #cd00cd;
+    border-bottom: 1px solid #999999;
+    color: #cd00cd;
 }
 }

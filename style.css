@@ -18,6 +18,7 @@ p {
 }
 blockquote {
     font-style: italic;
+    cursor:default;
 }
 a {
     border-bottom: 1px solid #444444;

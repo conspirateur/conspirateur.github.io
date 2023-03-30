@@ -1,5 +1,5 @@
 body {
-    margin: 1em auto;
+    margin: 0 auto;
     background: #F2F0EB;
 /*system-ui mjenja prijašnji -apple-system, BlinkMacSystemFont (https://css-tricks.com/snippets/css/system-font-stack/)*/
     font-family: system-ui, "Segoe UI", Roboto, Arial, Helvetica, sans-serif;
@@ -8,7 +8,6 @@ body {
     line-height: 1.5;
     max-width: 50em;
     padding: 4em 1em;
-    text-align: center;
 }
 h2 {
     cursor:default;

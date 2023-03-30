@@ -2,10 +2,10 @@
 
 <h1>Osobna <b>HTML+CSS</b> web stranica</h1>
 
-<li>Kvalitetno napisan kod</li>
+<li>Jednostavan i kvalitetan kod, vizualno zadovoljavajuc, radi na svim uredajima</li>
 <li>Jednostavno održavanje</li>
 <li>Brza</li>
-<li>Atraktivnog dizajna.</li>
+<li>Vizualno jednostavan, atraktivan dizajn koji efektivno prenosi informaciju posjetitelju</li>
 
 <br>
 

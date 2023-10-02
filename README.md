@@ -1,14 +1,11 @@
 # conspirateur.github.io
 
-<h1>Osobna <b>HTML+CSS</b> web stranica</h1>
-
-<li>Jednostavan i kvalitetan kod, vizualno zadovoljavajuć, radi na svim uredajima</li>
+<h1>Osobna HTML+CSS web stranica</h1>
+<li>Jednostavan kod, radi na svim uređajima i prilagođen za svakog korisnika</li>
 <li>Jednostavno održavanje</li>
 <li>Brza</li>
-<li>Jednostavan, atraktivan dizajn koji efektivno prenosi informaciju posjetitelju</li>
-
+<li>Efektivno prenosi informaciju posjetitelju</li>
 <br>
-
 <h2>Inspiracija</h2>
 <li>https://motherfuckingwebsite.com/</li>
 <li>https://thebestmotherfucking.website/</li>
